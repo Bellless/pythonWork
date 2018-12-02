@@ -1,2 +1,2 @@
 # pythonWork
-python练手demo
+python=demo
